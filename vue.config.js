@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/nft-preview-card/'
+  publicPath: '/home/vincent/Travail/Sites/Portfolio/nft-preview-card/'
 }
